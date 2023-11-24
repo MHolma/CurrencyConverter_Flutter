@@ -1,0 +1,1 @@
+String currensies = "Eur=1.0,GBP=0.8,USD=0.9";
